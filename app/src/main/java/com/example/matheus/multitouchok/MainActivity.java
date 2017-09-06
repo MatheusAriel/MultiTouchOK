@@ -9,6 +9,7 @@ public class MainActivity extends AppCompatActivity
     @Override
     protected void onCreate (Bundle savedInstanceState)
     {
+        //MAIN VAZIA
         super.onCreate (savedInstanceState);
         setContentView (R.layout.activity_main);
     }
